@@ -2,4 +2,4 @@
 const idade= Number(prompt("Por favor, digite sua idade em anos:"))
 const meses= idade * 12
 const dias= idade *365
-alert("De acordo com idade informada "+idade+"")
+alert("Você tem "+idade+" anos e "+meses+" meses e "+dias+" dias. ")
