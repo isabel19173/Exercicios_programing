@@ -61,6 +61,6 @@
 - [x]  **26.** Média de peso de 5 pessoas
 - [x]  **27.** Simular elevador até atingir 180 kg
 - [x]  **28.** Contar quantos de 10 números são negativos
-- [ ]  **Desafio 5.** Classificar negativos, positivos, pares e múltiplos de 7
-- [ ]  **Desafio 6.** Fibonacci até N termos
-- [ ]  **Desafio 7.** Fibonacci até o 10º termo
+- [x]  **Desafio 5.** Classificar negativos, positivos, pares e múltiplos de 7
+- [x]  **Desafio 6.** Fibonacci até N termos
+- [x]  **Desafio 7.** Fibonacci até o 10º termo
